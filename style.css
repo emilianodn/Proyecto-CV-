@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+header{
+    text-align: center;
+}
+header img{
+    height: 100px;
+}
+header h1,h2 {
+    color: #005677;
+    background: #C4C4C4;  
+}
+.acad ul li,.labo ul li {
+    list-style: none;
+}
+.ver{
+    margin-top:-15px;
+    margin-left:78px;
+}
+footer{
+    background-color: #005677;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+}
+footer i{
+    color: #fff;
+    margin-left: 10px;
+}
